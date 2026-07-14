@@ -1,0 +1,9 @@
+[theme]
+name = "Art Gallery"
+description = "Minimalist art gallery Shopify theme"
+screenshots = []
+theme_store_id = "YOUR_THEME_ID"
+
+[[theme.presets]]
+name = "Default"
+label = "Default"
